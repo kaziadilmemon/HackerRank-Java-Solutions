@@ -13,3 +13,5 @@ n can be fitted in:
 If there is more than one appropriate data type, print each one on its own line and order them by size (i.e.: byte < short < int < long ).
 
 If the number cannot be stored in one of the four aforementioned primitives, print the line:
+
+
