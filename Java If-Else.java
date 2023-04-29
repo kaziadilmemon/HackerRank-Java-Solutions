@@ -29,7 +29,6 @@ public class Solution {
                 ans = "Not Weird";
             }
         }
-
         System.out.println(ans);
     }
 }
